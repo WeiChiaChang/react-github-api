@@ -1,0 +1,25 @@
+{
+  "name": "react-github-api",
+  "version": "1.0.0",
+  "description": "A personal practice based on react & parcel.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "deploy": "gh-pages -d dist",
+    "build": "parcel build index.html --public-url ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "gh-pages": "^1.1.0",
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "^1.8.1"
+  }
+}
