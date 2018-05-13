@@ -3,7 +3,7 @@
 > GitHub API practice based on React & Bulma & Parcel.
 
 ## Overview
-![Overview](https://i.imgur.com/CSWf8qQ.png)
+![Overview](https://i.imgur.com/Ugu5UKy.png)
 
 ## Setup
 ```shell
