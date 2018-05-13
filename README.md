@@ -1,4 +1,4 @@
-# react-parcel-bulma-boilerplate
+# react-github-api
 
 > GitHub API practice based on React & Bulma & Parcel.
 
